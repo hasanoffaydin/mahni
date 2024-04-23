@@ -1,3 +1,7 @@
 Salam Men Aydin Hesenov 
+<<<<<<< HEAD
 Men bezi riyaziyyat misallarinda problemim var
 Hemin Problemler Riyaziyyatin Diskert olan hissesinde olan problemleridir 
+=======
+Men Baki Muhendislik Universitetinin 2-ci kursunda oxuyuram
+>>>>>>> yeniBranch
