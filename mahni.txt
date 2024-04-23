@@ -9,3 +9,4 @@ Yeniden bezi seyleri tekraren yazmaq lazimdr
 >>>>>>> parent of bd43630 (Revert dersini oyrenmek)
 =======
 >>>>>>> parent of bd43630 (Revert dersini oyrenmek)
+Yeni Mahnilar Ve Bezi Qeydler Elave olundu artiq demek olar ki rahat mahniya qulaq asa bilerik
