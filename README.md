@@ -1,1 +1,0 @@
-Namiqin Ve Aygunun Mahnisi
